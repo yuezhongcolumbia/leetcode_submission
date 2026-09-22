@@ -3,7 +3,7 @@ class Solution {
         // 1,5,2
 
         //   1， 5， 2
-
+            // The goal is to minimize sum[l....r], so that we flip it the contribution would be maximized
         // 1. current prefix sum
         // 2. case 1: length between cur and l is even
         //         a. l requires different parity
