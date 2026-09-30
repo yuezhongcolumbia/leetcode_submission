@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
+| [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
+| [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
 ## Queue
 |  |
 | ------- |
