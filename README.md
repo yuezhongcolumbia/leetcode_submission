@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0164-maximum-gap) |
 | [0274-h-index](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0274-h-index) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 ## Greedy
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 <!---LeetCode Topics End-->
