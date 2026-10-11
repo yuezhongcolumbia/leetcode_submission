@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0031-next-permutation) |
 | [0057-insert-interval](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0057-insert-interval) |
 | [0164-maximum-gap](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0164-maximum-gap) |
 | [0274-h-index](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0274-h-index) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0031-next-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
