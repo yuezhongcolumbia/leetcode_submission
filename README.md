@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0096-unique-binary-search-trees) |
 ## Bucket Sort
 |  |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0015-3sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
