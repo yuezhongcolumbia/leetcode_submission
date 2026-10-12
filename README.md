@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Sorting
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 | [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Greedy
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Monotonic Queue
 |  |
 | ------- |
