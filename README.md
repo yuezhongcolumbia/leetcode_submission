@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0096-unique-binary-search-trees) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3524-find-x-value-of-array-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3524-find-x-value-of-array-i) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 | [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Queue
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Shortest Path
 |  |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0029-divide-two-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
