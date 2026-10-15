@@ -13,7 +13,7 @@ class Solution {
             
            int l = i;
            int r = n - 1;
-           int j = -1;
+           int j = n;
            
            while (l <= r){
                 int m = (l + r) >> 1;
@@ -25,14 +25,12 @@ class Solution {
                 }
            }
            //calculate might use prefix sum
-           if (j != -1){
-             curSum += (prefixSum[j] - prefixSum[i]);
-           } else {
-            curSum += prefixSum[n] - prefixSum[i];
-           }
+           
+            curSum += (prefixSum[j] - prefixSum[i]);
+          
            
             //partial sum
-            if (j != -1 && tiles[j][0] <= end){
+            if (j < n && tiles[j][0] <= end){
                 curSum += (end - tiles[j][0] + 1);
             }
            //update
