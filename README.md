@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Graph Theory
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0012-integer-to-roman) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [2938-separate-black-and-white-balls](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2938-separate-black-and-white-balls) |
 ## Two Pointers
