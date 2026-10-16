@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0096-unique-binary-search-trees) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1901-find-a-peak-element-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
 | [1429-first-unique-number](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1429-first-unique-number) |
