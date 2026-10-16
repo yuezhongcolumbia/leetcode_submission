@@ -1,32 +1,37 @@
 class Solution {
     public List<List<String>> suggestedProducts(String[] products, String searchWord) {
-    //    mobile","moneypot","monitor mouse mousepad
-    //    sort it 
-    //    scan prefix, get rid of words that doesn share, get first three
-    //    scan prefix, repeat
-       Arrays.sort(products);
-       int n = products.length;
-       int l = 0;
-       int r = n - 1;
-       String prefix = "";
-       List<List<String>> res = new ArrayList<>();
-        for (int i = 0; i < searchWord.length(); i++){
+        // mobile","moneypot","monitor mouse mousepad
+        Arrays.sort(products);
+        int n = products.length;
+        int start = 0;
+        String prefix = "";
+        List<List<String>> res = new ArrayList<>();
+        for(int i = 0; i < searchWord.length(); i++){
             prefix += searchWord.charAt(i);
-            while (l <= r && !products[l].startsWith(prefix)){
-                l++;
+            int l = start;
+            int r = n - 1;
+            int select = -1;
+            while (l <= r){
+                int m = (l + r) >> 1;
+                if (products[m].compareTo(prefix) >= 0){
+                    r = m - 1;
+                    select = m;
+                } else {
+                    l = m + 1;
+                }
+                
+                
             }
-            while(l < r && !products[r].startsWith(prefix)){
-                r--;
-            }
-            List<String> tmp = new ArrayList<>();
-            for(int start = l; start <= r; start++){
-                tmp.add(products[start]);
-                if (tmp.size() == 3) break;
-            }
-            res.add(tmp);
-
-       }
-       return res;
-       
+            start = select != -1 ? select : n;
+                List<String> tmp = new ArrayList<>();
+                for(int j = start; j < n; j++){
+                    if (!products[j].startsWith(prefix)) break;
+                    tmp.add(products[j]);
+                    if (tmp.size() == 3) break;
+                }
+             res.add(tmp);   
+           
+        }
+         return res;
     }
 }
