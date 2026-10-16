@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0096-unique-binary-search-trees) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1901-find-a-peak-element-ii) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
 | [1429-first-unique-number](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1429-first-unique-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0164-maximum-gap) |
 | [0274-h-index](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0274-h-index) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Breadth-First Search
 |  |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0012-integer-to-roman) |
+| [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [2938-separate-black-and-white-balls](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2938-separate-black-and-white-balls) |
 ## Two Pointers
 |  |
@@ -209,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1429-first-unique-number](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1429-first-unique-number) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
