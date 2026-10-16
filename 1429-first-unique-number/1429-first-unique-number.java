@@ -1,13 +1,4 @@
 class FirstUnique {
-    // when add：
-    //     update map
-    //     add to the right end
-    //     maintain first number of the deque is unique:
-    //         when poped, update map
-    // showFirst:
-    //     only peek()
-   
-
     Deque<Integer> dq;
     Map<Integer, Integer> count;
     
@@ -25,7 +16,7 @@ class FirstUnique {
             int poped = dq.pollFirst();
            
         }
-       if (!dq.isEmpty() && count.get(dq.peekFirst()) == 1) return dq.peekFirst();
+       if (!dq.isEmpty() ) return dq.peekFirst();
        return -1;
     }
     
