@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0096-unique-binary-search-trees) |
+| [0470-implement-rand10-using-rand7](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0470-implement-rand10-using-rand7) |
 | [3524-find-x-value-of-array-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3524-find-x-value-of-array-i) |
 ## Bucket Sort
 |  |
@@ -244,4 +245,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
