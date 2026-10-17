@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0767-reorganize-string) |
@@ -183,11 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0402-remove-k-digits) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0402-remove-k-digits) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Matrix
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0012-integer-to-roman) |
+| [0402-remove-k-digits](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0767-reorganize-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
