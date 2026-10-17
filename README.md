@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0057-insert-interval) |
 | [0164-maximum-gap](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0164-maximum-gap) |
 | [0274-h-index](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0096-unique-binary-search-trees) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0470-implement-rand10-using-rand7](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0470-implement-rand10-using-rand7) |
 | [3524-find-x-value-of-array-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3524-find-x-value-of-array-i) |
 ## Bucket Sort
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0012-integer-to-roman) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0767-reorganize-string) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [1429-first-unique-number](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1429-first-unique-number) |
 ## Data Stream
 |  |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0470-implement-rand10-using-rand7](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0470-implement-rand10-using-rand7) |
 ## Probability and Statistics
 |  |
