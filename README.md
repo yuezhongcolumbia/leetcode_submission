@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0164-maximum-gap) |
 | [0274-h-index](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0274-h-index) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0767-reorganize-string) |
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0274-h-index) |
+| [0767-reorganize-string](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0767-reorganize-string) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0012-integer-to-roman) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0767-reorganize-string) |
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 | [0904-fruit-into-baskets](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0904-fruit-into-baskets) |
 | [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0011-container-with-most-water) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0767-reorganize-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0767-reorganize-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
@@ -200,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0012-integer-to-roman) |
+| [0767-reorganize-string](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0767-reorganize-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [2938-separate-black-and-white-balls](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2938-separate-black-and-white-balls) |
