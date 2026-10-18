@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3524-find-x-value-of-array-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3524-find-x-value-of-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0470-implement-rand10-using-rand7](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0470-implement-rand10-using-rand7) |
 | [3524-find-x-value-of-array-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3524-find-x-value-of-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bucket Sort
 |  |
 | ------- |
