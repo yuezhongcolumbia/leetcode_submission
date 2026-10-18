@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0031-next-permutation) |
 | [0057-insert-interval](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0057-insert-interval) |
 | [0164-maximum-gap](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0540-single-element-in-a-sorted-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 | [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Design
@@ -280,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
