@@ -20,12 +20,10 @@ class Solution {
         // so we can only hope to flip all evens to all odds.
         // 1 4 6
 
-        Arrays.sort(nums1);
         int deduct = Integer.MAX_VALUE;
         for(int i = 0; i < nums1.length; i++){
-            if (nums1[i] % 2 != 0){
+            if (nums1[i] % 2 != 0 && nums1[i] < deduct){
                 deduct = nums1[i];
-                break;
             }
         }
         // all even
