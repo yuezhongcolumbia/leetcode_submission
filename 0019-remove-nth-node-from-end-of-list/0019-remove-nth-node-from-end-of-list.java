@@ -10,23 +10,38 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        // how to find the fucker?   if I want to do one pass, I need to use some extra memory
-        // use hashmap to remember the position
-        // and delete
-        // k -1 - (n - 1) = k - n for 0 indexed
-        Map<Integer, ListNode> map = new HashMap<>();
-        ListNode cur = head;   
-        int idx = 0;
-        while (cur != null){
-            map.put(idx, cur);
-            cur = cur.next;
-            idx++;
-        } 
-        ListNode deleted = map.get(idx - n);
-        if (idx - n - 1 < 0) return deleted.next;
-        ListNode prev = map.get(idx - n - 1);
-        prev.next = prev.next.next;
-        return head;
+        // 1，2，3，4，5 n = 2
+        // fast pointer is n + 1 node ahead
+        // land on prev;
+        ListNode dummy = new ListNode(0, head);
+        ListNode slow = dummy;
+        ListNode fast = dummy;
+        for(int i = 0; i < n + 1; i++){
+            if (fast == null) break;
+            fast = fast.next;
+        }
+        while (fast != null){
+            slow = slow.next;
+            fast = fast.next;
+        }
+        slow.next = slow.next.next;
+        return dummy.next;
+
+        // edge case: [1] n = 1
+
+        // dummy -> 1 -> null
+        // slow          fast
+
+        // dummy, 1,2,3,4,5  n =2
+        // slow       f
+
+        // [1,2] n = 1
+
+        // dummy -> 1 -> null
+        // s              f    
+
         
+
+
     }
 }
