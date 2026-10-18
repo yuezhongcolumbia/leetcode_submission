@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0096-unique-binary-search-trees) |
+| [0152-maximum-product-subarray](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0152-maximum-product-subarray) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3524-find-x-value-of-array-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0031-next-permutation) |
 | [0057-insert-interval](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0057-insert-interval) |
+| [0152-maximum-product-subarray](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
