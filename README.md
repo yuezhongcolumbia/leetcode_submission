@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0470-implement-rand10-using-rand7](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0470-implement-rand10-using-rand7) |
 | [3524-find-x-value-of-array-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3524-find-x-value-of-array-i) |
+| [3871-count-commas-in-range-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bucket Sort
 |  |
