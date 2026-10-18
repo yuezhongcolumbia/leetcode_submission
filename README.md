@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0096-unique-binary-search-trees) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1004-max-consecutive-ones-iii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0057-insert-interval) |
 | [0164-maximum-gap](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0540-single-element-in-a-sorted-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
