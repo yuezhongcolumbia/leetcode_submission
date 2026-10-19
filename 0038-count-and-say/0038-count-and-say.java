@@ -7,11 +7,15 @@ class Solution {
     //     counter and identify the element, idx, sb
     //     return string
     //     1211
-        if (n == 1){
-            return "1";
+        StringBuilder sb = new StringBuilder();
+        for(int i = 1; i <= n; i++){
+            if (i == 1){
+                sb = new StringBuilder("1");
+                continue;
+            }
+            sb = new StringBuilder(rleEncoder(sb.toString()));
         }
-        return rleEncoder(countAndSay(n - 1));
-
+        return sb.toString();
 
     }
    
