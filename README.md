@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1901-find-a-peak-element-ii) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Binary Tree
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3524-find-x-value-of-array-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3524-find-x-value-of-array-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0767-reorganize-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Breadth-First Search
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 | [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Bracket Sequences
 |  |
@@ -312,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
