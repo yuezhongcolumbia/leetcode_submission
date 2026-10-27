@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0655-print-binary-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0655-print-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0655-print-binary-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0655-print-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0210-course-schedule-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0407-trapping-rain-water-ii) |
+| [0655-print-binary-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0655-print-binary-tree) |
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 | [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0655-print-binary-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0655-print-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Design
 |  |
