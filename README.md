@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0096-unique-binary-search-trees) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0540-single-element-in-a-sorted-array) |
+| [0778-swim-in-rising-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0778-swim-in-rising-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0904-fruit-into-baskets) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0210-course-schedule-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0407-trapping-rain-water-ii) |
 | [0655-print-binary-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0655-print-binary-tree) |
+| [0778-swim-in-rising-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0815-bus-routes) |
 | [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0407-trapping-rain-water-ii) |
+| [0778-swim-in-rising-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0778-swim-in-rising-water) |
 | [1901-find-a-peak-element-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -290,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0655-print-binary-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0655-print-binary-tree) |
+| [0778-swim-in-rising-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0778-swim-in-rising-water) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Design
 |  |
@@ -329,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0778-swim-in-rising-water) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -343,4 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0210-course-schedule-ii) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
