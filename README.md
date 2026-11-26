@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Breadth-First Search
 |  |
@@ -259,10 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0210-course-schedule-ii) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Shortest Path
 |  |
 | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## String
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [2938-separate-black-and-white-balls](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2938-separate-black-and-white-balls) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Two Pointers
 |  |
 | ------- |
