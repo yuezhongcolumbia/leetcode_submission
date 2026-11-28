@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2747-count-zero-request-servers](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2747-count-zero-request-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3026-maximum-good-subarray-sum](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3026-maximum-good-subarray-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3524-find-x-value-of-array-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2747-count-zero-request-servers](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Counting Sort
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1345-jump-game-iv) |
 | [1429-first-unique-number](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1429-first-unique-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2747-count-zero-request-servers) |
 | [3026-maximum-good-subarray-sum](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3026-maximum-good-subarray-sum) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2747-count-zero-request-servers](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2747-count-zero-request-servers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
