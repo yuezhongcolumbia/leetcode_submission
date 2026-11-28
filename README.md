@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1429-first-unique-number](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1429-first-unique-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1882-process-tasks-using-servers](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1268-search-suggestions-system](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1268-search-suggestions-system) |
+| [1882-process-tasks-using-servers](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/1882-process-tasks-using-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/yuezhongcolumbia/leetcode_submission/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
